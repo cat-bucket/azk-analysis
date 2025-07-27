@@ -1,0 +1,6 @@
+{
+    "autosave": true,
+    "data_source": "your_pool_address",
+    "model_id": "your_wallet_address",
+    "training_mode": "deep_learning"
+}
