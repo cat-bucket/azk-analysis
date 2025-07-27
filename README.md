@@ -23,12 +23,7 @@ This project implements a lightweight AI model for duplicate detection in pencil
 - Output: JSON-formatted similarity reports containing anonymized artwork IDs and probability ranges.
 - Dependency: Requires GPU acceleration for training; inference runs on CPU.
 
-Integration Notes
-
-Embed the model via:
-
-<iframe src="/pencilai_module" style="border:none; width:100%; height:300px;"></iframe>  
-
+## notice
 🔒 Model parameters and training scripts are intentionally omitted. Users must implement their own training routines.
 
 The implementation assumes familiarity with pencil drawing digitization standards and adversarial training techniques. For deployment, replace placeholder endpoints with internal APIs after model training.
